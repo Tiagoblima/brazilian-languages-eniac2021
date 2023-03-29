@@ -1,4 +1,4 @@
-# bracis-2021-language
+# Analysis of a Brazilian Indigenous corpus using machine learning methods
 
 
 
