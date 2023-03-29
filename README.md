@@ -57,5 +57,5 @@ MONTH="nov",
 YEAR="2021",
 ABSTRACT="In Brazil, several minority languages suffer a serious risk of extinction. The appropriate documentation of such languages is a fundamental step to avoid that. However, for some of those languages, only a small amount of text corpora is digitally accessible. Meanwhile there are many issues related to the identification of indigenous languages, which may help to identify key similarities among them, as well as to connect related languages and dialects. Therefore, this paper proposes to study and automatically classify 26 neglected Brazilian native languages, considering a small amount of training data, under a supervised and unsupervised setting. Our findings indicate that the use of machine learning models to the analysis of Brazilian Indigenous corpora is very promising, and we hope this work encourage more research on this topic in the next years.",
 KEYWORDS="Machine Learning; Natural Language Processing",
-URL="http://XXXXX/219293.pdf"
+URL="https://sol.sbc.org.br/index.php/eniac/article/view/18246/18080"
 }
